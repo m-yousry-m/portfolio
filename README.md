@@ -1,4 +1,4 @@
-# Data Anakyst
+# Data Analyst
 
 ### Education
 
